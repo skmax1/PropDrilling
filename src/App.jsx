@@ -43,7 +43,7 @@ function Buttons({setCount}){
 
     <button onClick={()=>{
       setCount(count-1);
-    }}>decrese the count</button>
+    }}>Decrease the count</button>
   </div>
 
 }
